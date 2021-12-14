@@ -1,0 +1,6 @@
+1.000000
+0.639245
+0.318313
+
+C:\Users\pc\source\repos\Lab4_SO1.12.01.2021\Debug\integrals.exe (process 10512) exited with code 0.
+Press any key to close this window . . .
